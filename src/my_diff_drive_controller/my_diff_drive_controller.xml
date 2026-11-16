@@ -1,0 +1,7 @@
+<library path="my_diff_drive_controller">
+  <class name="my_controllers/DiffDriveController"
+         type="MyCustomController::MyDifferentialDriveController"
+         base_class_type="controller_interface::ControllerInterface">
+    <description>Simple differential drive vehicle controller.</description>
+  </class>
+</library>

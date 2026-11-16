@@ -1,0 +1,8 @@
+#build files
+build/
+log/
+install/
+src/test/
+
+#VS Code settings
+.vscode
